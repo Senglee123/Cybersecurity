@@ -5,7 +5,7 @@ Welcome! This repository serves as my personal digital notebook, cheat-sheet col
 ### 🚀 What you'll find here:
 * 🎯 **Pentesting Guides:** Step-by-step notes, methodologies, and command-line cheatsheets.
 * 💻 **Secure Programming:** Code snippets, script templates, and language-specific security tips.
-* 🔗 **Curated Links:** High-quality resources, write-ups, and tools discovered along the way.
+* 🔗 **Links:** High-quality resources, write-ups, and tools discovered along the way.
 * 📝 **Summaries:** Quick recaps of vulnerabilities, exploits, and defense mechanisms.
 
 
@@ -23,6 +23,7 @@ Hier findest du fertige Tools und Implementierungen, die ich geschrieben oder zu
 ### 🕵️ Pentesting & Exploits
 * 🛑 *[Platzhalter für dein nächstes Pentesting-Tool]*
 
-# Curated Links
+# Links
+* 🔍 **[Shodan](https://www.shodan.io/):** Shodan.io ist eine spezielle Suchmaschine für mit dem Internet verbundene Geräte und Systeme.
 
 # Summaries
