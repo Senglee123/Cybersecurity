@@ -1,8 +1,10 @@
 # 🛡️ My Cybersecurity Hub & Knowledge Base (Work-in-progress)
 
-Welcome! This repository serves as my personal digital notebook, cheat-sheet collection, and quick-reference website for everything related to **Cybersecurity, Penetration Testing, and Programming**. 
+Willkommen! Das ist mein Repository als persönliches digitales Notizbuch, Cheat-Sheet Sammlung und nützliche Links die sehr hilfreich sein könnten, wenn es um **Cybersecurity, Penetration Testing, and Programming** geht.
 
-### 🚀 What you'll find here:
+Sei nicht scheu und durchstöbere mal etwas rum, vielleicht findest du wonach du suchst ! 😊 
+
+### 🚀 Inhaltsverzeichnis:
 * 🎯 **Pentesting Guides:** Step-by-step notes, methodologies, and command-line cheatsheets.
 * 💻 **Secure Programming:** Code snippets, script templates, and language-specific security tips.
 * 🔗 **Links:** High-quality resources, write-ups, and tools discovered along the way.
