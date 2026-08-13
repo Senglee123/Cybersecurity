@@ -12,6 +12,16 @@ Welcome! This repository serves as my personal digital notebook, cheat-sheet col
 # Pentesting Guides
 
 # Secure Programming
+## 🛠️ Meine Projekte & Code-Sammlung
+
+Hier findest du fertige Tools und Implementierungen, die ich geschrieben oder zusammengefasst habe:
+
+### 🔐 Kryptographie
+* 🔑 **[AES-Keyschedule](Cybersecurity/AES/AES-Keyschedule/):** Vollständige Implementierung und Analyse des AES-Schlüsselzeitplans. Enthält den Code zur Generierung der Rundenschlüssel.
+* 📝 *[Platzhalter Hier kannst du später weitere Krypto-Themen verlinken]*
+
+### 🕵️ Pentesting & Exploits
+* 🛑 *[Platzhalter für dein nächstes Pentesting-Tool]*
 
 # Curated Links
 
