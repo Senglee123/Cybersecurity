@@ -17,7 +17,7 @@ Welcome! This repository serves as my personal digital notebook, cheat-sheet col
 Hier findest du fertige Tools und Implementierungen, die ich geschrieben oder zusammengefasst habe:
 
 ### 🔐 Kryptographie
-* 🔑 **[AES-KeySchedule Python-Script](Cybersecurity/AES-Keyschedule/KeySchedule_aes.py):** Vollständige Implementierung und Analyse des AES-Schlüsselzeitplans. Enthält den Code zur Generierung der Rundenschlüssel.
+* 🔑 **[AES-KeySchedule](AES/AES-Keyschedule):** Vollständige Implementierung und Analyse des AES-Schlüsselzeitplans. Enthält den Code zur Generierung der Rundenschlüssel.
 * 📝 *[Platzhalter weitere Krypto-Themen]*
 
 ### 🕵️ Pentesting & Exploits
