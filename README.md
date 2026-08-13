@@ -7,3 +7,12 @@ Welcome! This repository serves as my personal digital notebook, cheat-sheet col
 * 💻 **Secure Programming:** Code snippets, script templates, and language-specific security tips.
 * 🔗 **Curated Links:** High-quality resources, write-ups, and tools discovered along the way.
 * 📝 **Summaries:** Quick recaps of vulnerabilities, exploits, and defense mechanisms.
+
+
+# Pentesting Guides
+
+# Secure Programming
+
+# Curated Links
+
+# Summaries
