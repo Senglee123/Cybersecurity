@@ -18,10 +18,10 @@ Hier findest du fertige Tools und Implementierungen, die ich geschrieben oder zu
 
 ### 🔐 Kryptographie
 * 🔑 **[AES-KeySchedule Python-Script](Cybersecurity/AES-Keyschedule/KeySchedule_aes.py):** Vollständige Implementierung und Analyse des AES-Schlüsselzeitplans. Enthält den Code zur Generierung der Rundenschlüssel.
-* 📝 *[Platzhalter Hier kannst du später weitere Krypto-Themen verlinken]*
+* 📝 *[Platzhalter weitere Krypto-Themen]*
 
 ### 🕵️ Pentesting & Exploits
-* 🛑 *[Platzhalter für dein nächstes Pentesting-Tool]*
+* 🛑 *[Platzhalter für Pentesting-Tool]*
 
 # Links
 * 🔍 **[Shodan](https://www.shodan.io/):** Shodan.io ist eine spezielle Suchmaschine für mit dem Internet verbundene Geräte und Systeme.
