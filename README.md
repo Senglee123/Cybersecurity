@@ -12,7 +12,7 @@ Sei nicht scheu und durchstöbere mal etwas rum, vielleicht findest du wonach du
 
 
 # Pentesting Guides
-* 🧾[Platzhalter für Cheat-sheet](Pentesting/Cheatsheet.txt):** Hier findest du mein selbst-angefertigtes Cheatsheet, welches ich für das Pentesting nutze.
+* 🧾[Cheatsheet(Kali-Linux)](Pentesting/Cheatsheet.txt):** Hier findest du mein selbst-angefertigtes Cheatsheet, welches ich für das Pentesting nutze.
 
 
 # Secure Programming
