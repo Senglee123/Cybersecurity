@@ -32,5 +32,6 @@ Hier findest du fertige Tools und Implementierungen, die ich geschrieben oder zu
 * 🔐 **[CrypTool-Online](https://legacy.cryptool.org/de/cto/):** CrypTool-Online findest du ine Vielzahl von Chiffrierverfahren sowie Codierungen und Analysetools werden auf einfache Weise und jeweils anhand eines Beispiels vorgestellt.
 * 🏦 **[Rapid7](https://www.rapid7.com/db/):** Eine DB für bekannte Vulnerablities und Exploits (integration in Metasploit Framework, CVE's).
 * 💀 **[revshells](https://www.revshells.com/):** Hier kannst du eine reverse Shell generieren lassen (mehrere sprachen möglich).
+* 🗒️ **[Cheatsheet](https://cheatsheets.zip/):** Sehr hilfreich um bestimmte Programmiersprachen, Systeme, etc. als Überblick oder Cheatsheet zu nutzen.
 
 # Summaries
