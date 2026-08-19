@@ -31,5 +31,6 @@ Hier findest du fertige Tools und Implementierungen, die ich geschrieben oder zu
 * 🦠 **[VirusTotal](https://www.virustotal.com/gui/home/upload):** VirusTotal ist eine Website, um Dateien, URL's, IP-Adressen, etc. auf Malicious Aktivitäten zu prüfen.
 * 🔐 **[CrypTool-Online](https://legacy.cryptool.org/de/cto/):** CrypTool-Online findest du ine Vielzahl von Chiffrierverfahren sowie Codierungen und Analysetools werden auf einfache Weise und jeweils anhand eines Beispiels vorgestellt.
 * 🏦 **[Rapid7](https://www.rapid7.com/db/):** Eine DB für bekannte Vulnerablities und Exploits (integration in Metasploit Framework, CVE's).
+* 💀 **[revshells](https://www.revshells.com/):** Hier kannst du eine reverse Shell generieren lassen (mehrere sprachen möglich).
 
 # Summaries
